@@ -1,3 +1,3 @@
 # first-react-project
 <br> 
-thid is geeta auther name
+thid is geeta uniyal auther name
